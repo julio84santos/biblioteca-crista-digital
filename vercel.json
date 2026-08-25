@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/assets/biblioteca-hero.webp", "destination": "/assets/hero.jpg" },
+    { "source": "/assets/biblioteca-interior.webp", "destination": "/assets/interior.jpg" }
+  ]
+}
